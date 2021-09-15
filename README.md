@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thesavingspark
 - 👀 I’m interested in mathematics 
 - 🌱 I’m currently learning Java programming
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate and learn the underlying aspects of collaborative work
 - 📫 How to reach me: on Discord <- @thesavingspark#1147
 
 <!---
